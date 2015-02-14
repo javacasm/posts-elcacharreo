@@ -1,5 +1,5 @@
 Usando pololus con arduino
-
+https://a.pololu-files.com/picture/0J3360.600.png?d94ef1356fab28463db67ff0619afadf
 Necesitamos 2 pines para el  uso normal: paso y dirección
 
 Por otro lado tenemos enable, error, etc...
